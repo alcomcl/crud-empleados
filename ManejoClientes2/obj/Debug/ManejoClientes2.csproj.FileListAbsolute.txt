@@ -1,0 +1,33 @@
+C:\Users\alexc\Desktop\AVA - 3er SEMESTRE\DESARROLLO DE SOFTWARE DE ESCRITORIO\Proyecto Manejo Clientes\ManejoClientes2\bin\Debug\ManejoClientes2.exe.config
+C:\Users\alexc\Desktop\AVA - 3er SEMESTRE\DESARROLLO DE SOFTWARE DE ESCRITORIO\Proyecto Manejo Clientes\ManejoClientes2\bin\Debug\ManejoClientes2.exe
+C:\Users\alexc\Desktop\AVA - 3er SEMESTRE\DESARROLLO DE SOFTWARE DE ESCRITORIO\Proyecto Manejo Clientes\ManejoClientes2\bin\Debug\ManejoClientes2.pdb
+C:\Users\alexc\Desktop\AVA - 3er SEMESTRE\DESARROLLO DE SOFTWARE DE ESCRITORIO\Proyecto Manejo Clientes\ManejoClientes2\obj\Debug\ManejoClientes2.Properties.Resources.resources
+C:\Users\alexc\Desktop\AVA - 3er SEMESTRE\DESARROLLO DE SOFTWARE DE ESCRITORIO\Proyecto Manejo Clientes\ManejoClientes2\obj\Debug\ManejoClientes2.csproj.GenerateResource.Cache
+C:\Users\alexc\Desktop\AVA - 3er SEMESTRE\DESARROLLO DE SOFTWARE DE ESCRITORIO\Proyecto Manejo Clientes\ManejoClientes2\obj\Debug\ManejoClientes2.exe
+C:\Users\alexc\Desktop\AVA - 3er SEMESTRE\DESARROLLO DE SOFTWARE DE ESCRITORIO\Proyecto Manejo Clientes\ManejoClientes2\obj\Debug\ManejoClientes2.pdb
+C:\Users\alexc\Desktop\AVA - 3er SEMESTRE\DESARROLLO DE SOFTWARE DE ESCRITORIO\Proyecto Manejo Clientes\ManejoClientes2\obj\Debug\ManejoClientes2.forma.resources
+C:\Users\alexc\Desktop\AVA - 3er SEMESTRE\DESARROLLO DE SOFTWARE DE ESCRITORIO\Proyecto Manejo Clientes\ManejoClientes2\obj\Debug\ManejoClientes2.BuscarCliente.resources
+C:\Users\Christian\Downloads\Proyecto Manejo Clientes\Proyecto Manejo Clientes\ManejoClientes2\bin\Debug\ManejoClientes2.exe.config
+C:\Users\Christian\Downloads\Proyecto Manejo Clientes\Proyecto Manejo Clientes\ManejoClientes2\bin\Debug\ManejoClientes2.exe
+C:\Users\Christian\Downloads\Proyecto Manejo Clientes\Proyecto Manejo Clientes\ManejoClientes2\bin\Debug\ManejoClientes2.pdb
+C:\Users\Christian\Downloads\Proyecto Manejo Clientes\Proyecto Manejo Clientes\ManejoClientes2\obj\Debug\ManejoClientes2.csprojAssemblyReference.cache
+C:\Users\Christian\Downloads\Proyecto Manejo Clientes\Proyecto Manejo Clientes\ManejoClientes2\obj\Debug\ManejoClientes2.BuscarCliente.resources
+C:\Users\Christian\Downloads\Proyecto Manejo Clientes\Proyecto Manejo Clientes\ManejoClientes2\obj\Debug\ManejoClientes2.forma.resources
+C:\Users\Christian\Downloads\Proyecto Manejo Clientes\Proyecto Manejo Clientes\ManejoClientes2\obj\Debug\ManejoClientes2.Properties.Resources.resources
+C:\Users\Christian\Downloads\Proyecto Manejo Clientes\Proyecto Manejo Clientes\ManejoClientes2\obj\Debug\ManejoClientes2.csproj.GenerateResource.cache
+C:\Users\Christian\Downloads\Proyecto Manejo Clientes\Proyecto Manejo Clientes\ManejoClientes2\obj\Debug\ManejoClientes2.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Downloads\Proyecto Manejo Clientes\Proyecto Manejo Clientes\ManejoClientes2\obj\Debug\ManejoClientes2.exe
+C:\Users\Christian\Downloads\Proyecto Manejo Clientes\Proyecto Manejo Clientes\ManejoClientes2\obj\Debug\ManejoClientes2.pdb
+C:\Users\alexc\Desktop\AVA - 3er SEMESTRE\DESARROLLO DE SOFTWARE DE ESCRITORIO\Proyecto Manejo Clientes\ManejoClientes2\obj\Debug\ManejoClientes2.csprojAssemblyReference.cache
+C:\Users\alexc\Desktop\AVA - 3er SEMESTRE\DESARROLLO DE SOFTWARE DE ESCRITORIO\Proyecto Manejo Clientes\ManejoClientes2\obj\Debug\ManejoClientes2.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\AVA - 3er SEMESTRE\DLLO DE SOFTWARE\Experiencia 2 - Construyendo una Interfaz\Proyecto Manejo Clientes\ManejoClientes2\bin\Debug\ManejoClientes2.exe.config
+C:\Users\alexc\Desktop\AVA - 3er SEMESTRE\DLLO DE SOFTWARE\Experiencia 2 - Construyendo una Interfaz\Proyecto Manejo Clientes\ManejoClientes2\obj\Debug\ManejoClientes2.exe
+C:\Users\alexc\Desktop\AVA - 3er SEMESTRE\DLLO DE SOFTWARE\Experiencia 2 - Construyendo una Interfaz\Proyecto Manejo Clientes\ManejoClientes2\obj\Debug\ManejoClientes2.pdb
+C:\Users\alexc\Desktop\AVA - 3er SEMESTRE\DLLO DE SOFTWARE\Experiencia 2 - Construyendo una Interfaz\Proyecto Manejo Clientes\ManejoClientes2\bin\Debug\ManejoClientes2.exe
+C:\Users\alexc\Desktop\AVA - 3er SEMESTRE\DLLO DE SOFTWARE\Experiencia 2 - Construyendo una Interfaz\Proyecto Manejo Clientes\ManejoClientes2\bin\Debug\ManejoClientes2.pdb
+C:\Users\alexc\Desktop\AVA - 3er SEMESTRE\DLLO DE SOFTWARE\Experiencia 2 - Construyendo una Interfaz\Proyecto Manejo Clientes\ManejoClientes2\obj\Debug\ManejoClientes2.BuscarCliente.resources
+C:\Users\alexc\Desktop\AVA - 3er SEMESTRE\DLLO DE SOFTWARE\Experiencia 2 - Construyendo una Interfaz\Proyecto Manejo Clientes\ManejoClientes2\obj\Debug\ManejoClientes2.forma.resources
+C:\Users\alexc\Desktop\AVA - 3er SEMESTRE\DLLO DE SOFTWARE\Experiencia 2 - Construyendo una Interfaz\Proyecto Manejo Clientes\ManejoClientes2\obj\Debug\ManejoClientes2.Properties.Resources.resources
+C:\Users\alexc\Desktop\AVA - 3er SEMESTRE\DLLO DE SOFTWARE\Experiencia 2 - Construyendo una Interfaz\Proyecto Manejo Clientes\ManejoClientes2\obj\Debug\ManejoClientes2.csproj.GenerateResource.Cache
+C:\Users\alexc\Desktop\AVA - 3ER SEMESTRE\DLLO DE SOFTWARE\Experiencia 2 - Construyendo una Interfaz\Proyecto Manejo Clientes\ManejoClientes2\obj\Debug\ManejoClientes2.csprojAssemblyReference.cache
+C:\Users\alexc\Desktop\AVA - 3ER SEMESTRE\DLLO DE SOFTWARE\Experiencia 2 - Construyendo una Interfaz\Proyecto Manejo Clientes\ManejoClientes2\obj\Debug\ManejoClientes2.csproj.CoreCompileInputs.cache
